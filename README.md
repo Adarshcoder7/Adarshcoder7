@@ -1,7 +1,6 @@
 <!-- Matrix-style animation -->
 <img src="https://github.com/Adarshcoder7/Adarshcoder7/assets/108210227/1e0c7e64-f10d-44b6-92c2-4e858aa89f4a" width="100%" />
 
-
 # 🙏 नमस्ते (Namaste), I am Adarsh Trivedi 👋
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/Adarshcoder7)
