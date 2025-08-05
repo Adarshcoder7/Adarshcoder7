@@ -1,44 +1,78 @@
-<!-- Matrix-style animation -->
-<!-- Custom SVG Typing Banner for Adarsh Trivedi -->
+<h1 align="center">Hi 👋, I'm Adarsh Trivedi</h1>
+<h3 align="center">A passionate Machine Learning developer from India</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&height=100&lines=👋+Hey,+I+am+Adarsh+Trivedi;💻+B.Tech+CS+Student+%7C+ML+%7C+Flask+Developer;🧠+Building+AI+projects+like+AyurvedaParamarsh+%26+Face+Attendance;🚀+Open+Source+Contributor+%7C+Portfolio+Creator;🎯+Always+Learning,+Building,+and+Experimenting" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;Python+Developer;Scikit-Learn+Practitioner" alt="Typing SVG" />
 </p>
 
-# 🙏 नमस्ते (Namaste), I am Adarsh Trivedi 👋
+---
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github)](https://github.com/Adarshcoder7)
-[![Email](https://img.shields.io/badge/vbhogayata@gmail.com-red?style=flat&logo=gmail)](mailto:vbhogayata@gmail.com)
-
-🌐 Portfolio: [adarshcoder7.github.io](https://adarshcoder7.github.io)  
-💬 Ask me anything – I love helping others!  
-📫 Let’s connect: [Email me](mailto:vbhogayata@gmail.com)
+- 🔭 I’m currently working on **Face Attendance System and AyurvedaParamarsh ML projects**
+- 🌱 I’m currently learning **Deep Learning, NLP and Flask APIs**
+- 👨‍💻 All of my projects are available at [my GitHub](https://github.com/adarshcoder7)
+- 📝 I regularly write blogs on [adarshcoder7.github.io](https://adarshcoder7.github.io)
+- 💬 Ask me about **Python, ML, Scikit-Learn, Flask**
+- 📫 How to reach me **adarshtrivedi7@gmail.com**
+- ⚡ Fun fact: I love decoding ancient Indian texts using AI 🤖📜
 
 ---
 
-### 🚀 Tools and Tech I Use:
+### 🛠️ Languages and Tools:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 💖 Things I Love:
-
-- 🐍 Python
-- ⚙️ Backend Development
-- 🧠 Machine Learning
-- 🌿 Ayurveda-based AI apps (check my [AyurvedaParamarsh](https://github.com/Adarshcoder7/AyurvedaParamarsh))
-
----
-
-5. Scroll down and click **“Commit changes”** ✅
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  </a>
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="jupyter" />
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask" />
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+</p>
 
 ---
 
-Would you like me to generate a fully customized `README.md` for your profile including links to your portfolio, projects, and styled sections?
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adarshcoder7&show_icons=true&locale=en&theme=tokyonight" alt="adarshcoder7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarshcoder7&theme=tokyonight" alt="adarshcoder7-streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshcoder7&layout=compact&theme=tokyonight" alt="top-langs" />
+</p>
+
+---
+
+### 🎯 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+### 🔗 Connect with me:
+
+<p align="left">
+<a href="https://linkedin.com/in/adarshcoder7" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="adarshcoder7" />
+</a>
+<a href="https://github.com/adarshcoder7" target="blank">
+  <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="adarshcoder7" />
+</a>
+<a href="https://adarshcoder7.github.io" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="portfolio" />
+</a>
+</p>
