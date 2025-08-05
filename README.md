@@ -1,5 +1,6 @@
 <!-- Matrix-style animation -->
-<img src="https://i.gifer.com/7VE.gif" width="100%" />
+<img src="https://github.com/Adarshcoder7/Adarshcoder7/assets/108210227/1e0c7e64-f10d-44b6-92c2-4e858aa89f4a" width="100%" />
+
 
 # 🙏 नमस्ते (Namaste), I am Adarsh Trivedi 👋
 
