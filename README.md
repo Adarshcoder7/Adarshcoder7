@@ -1,5 +1,8 @@
 <!-- Matrix-style animation -->
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%" />
+<!-- Custom SVG Typing Banner for Adarsh Trivedi -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&height=100&lines=👋+Hey,+I+am+Adarsh+Trivedi;💻+B.Tech+CS+Student+%7C+ML+%7C+Flask+Developer;🧠+Building+AI+projects+like+AyurvedaParamarsh+%26+Face+Attendance;🚀+Open+Source+Contributor+%7C+Portfolio+Creator;🎯+Always+Learning,+Building,+and+Experimenting" />
+</p>
 
 # 🙏 नमस्ते (Namaste), I am Adarsh Trivedi 👋
 
