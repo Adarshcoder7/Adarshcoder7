@@ -10,9 +10,8 @@
 - 🔭 I’m currently working on **Face Attendance System and AyurvedaParamarsh ML projects**
 - 🌱 I’m currently learning **Deep Learning, NLP and Flask APIs**
 - 👨‍💻 All of my projects are available at [my GitHub](https://github.com/adarshcoder7)
-- 📝 I regularly write blogs on [adarshcoder7.github.io](https://adarshcoder7.github.io)
 - 💬 Ask me about **Python, ML, Scikit-Learn, Flask**
-- 📫 How to reach me **adarshtrivedi7@gmail.com**
+- 📫 How to reach me **adarsh2026@mpgi.edu.in**
 - ⚡ Fun fact: I love decoding ancient Indian texts using AI 🤖📜
 
 ---
@@ -66,7 +65,7 @@
 ### 🔗 Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/adarshcoder7" target="blank">
+<a href="https://linkedin.com/in/adarshtrivedi7" target="blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="adarshcoder7" />
 </a>
 <a href="https://github.com/adarshcoder7" target="blank">
