@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at [my GitHub](https://github.com/adarshcoder7)
 - 📝 I regularly write blogs on [adarshcoder7.github.io](https://adarshcoder7.github.io)
 - 💬 Ask me about **Python, ML, Scikit-Learn, Flask**
-- 📫 How to reach me **adarshtrivedi7@gmail.com**
+- 📫 How to reach me **adarsh2026@mpgi.edu.in**
 - ⚡ Fun fact: I love decoding ancient Indian texts using AI 🤖📜
 
 ---
