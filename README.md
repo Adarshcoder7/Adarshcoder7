@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on **Face Attendance System and AyurvedaParamarsh ML projects**
 - 🌱 I’m currently learning **Deep Learning, NLP and Flask APIs**
 - 👨‍💻 All of my projects are available at [my GitHub](https://github.com/adarshcoder7)
-- 📝 I regularly write blogs on [adarshcoder7.github.io](https://adarshcoder7.github.io)
+- 📝 My Portfolio Website [adarshcoder7.github.io](https://adarshcoder7.github.io)
 - 💬 Ask me about **Python, ML, Scikit-Learn, Flask**
 - 📫 How to reach me **adarsh2026@mpgi.edu.in**
 - ⚡ Fun fact: I love decoding ancient Indian texts using AI 🤖📜
